@@ -47,6 +47,41 @@
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
 
 ---
+<h3 align="center">🚀 Featured Projects</h3>
+
+---
+
+### 🩺 Prescripto – Full Stack Doctor Appointment System  
+🔗 https://github.com/KartikEy4codes/prescripto_full-stack_doctor_appointment_app  
+💻 MERN Stack (MongoDB, Express.js, React, Node.js)  
+✨ Features:  
+- Patient & Doctor dashboards  
+- Appointment booking system  
+- Admin panel & authentication  
+- Scalable full-stack architecture  
+
+---
+
+### 📊 Daily DSA Practice  
+🔗 https://github.com/KartikEy4codes/Solving-Daily-DSA-problems  
+💻 Java  
+✨ Highlights:  
+- Consistent problem solving  
+- Covers arrays, strings, trees, graphs  
+- Focus on optimization & logic building  
+
+---
+
+### ⚙️ Node.js Backend Projects  
+🔗 https://github.com/KartikEy4codes/Node.js-Tutorial  
+💻 Node.js, Express.js  
+✨ Features:  
+- REST API development  
+- Middleware & routing  
+- Backend architecture fundamentals  
+
+---
+---
 
 <h3 align="center">⚙️ GitHub Analytics</h3>
 
@@ -59,10 +94,23 @@
 </p>
 
 ---
+<h3 align="center">🧠 Currently Learning</h3>
+
+<p align="center">
+⚡ System Design • Advanced Backend • AI/ML Optimization • DSA (LeetCode)
+</p>
+
+---
+<h3 align="center">🏆 Achievements</h3>
+
+<p align="center">
+✔ Solving DSA problems consistently on LeetCode  
+✔ Built full-stack MERN applications  
+✔ Strong foundation in Data Structures & Algorithms  
+</p>
 
 
-
-
+---
 
 ## 🤝🏻 Connect With Me
 
