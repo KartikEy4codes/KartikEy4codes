@@ -48,6 +48,15 @@
 
 ---
 
+<h3 align="center">⚙️ GitHub Analytics</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KartikEy4codes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KartikEy4codes&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
 
 
 
